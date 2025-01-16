@@ -24,11 +24,11 @@ Artificial Intelligence (AI) in cybersecurity refers to using advanced algorithm
   
 -intrusion detection with snort:
 - Snort can work in three ways:
-  ## sniffer mode :
+1. sniffer mode :
 - Captures and displays network packets in real time
-  ##  Packet logger mode:
+2. Packet logger mode:
 - Snort logs packtes to afile allowing you to analyze them later this helps with forensic investigation.
-  ##  Network Intrusion detection mode:
+3. Network Intrusion detection mode:
 - Compares network traffic against a database of known attack signatures.
 
 
