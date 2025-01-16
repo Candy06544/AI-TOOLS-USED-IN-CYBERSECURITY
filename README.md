@@ -21,7 +21,7 @@ Artificial Intelligence (AI) in cybersecurity refers to using advanced algorithm
   ### How it works :
 -  Funtions by inspecting data packets that pass through a network through packet sniffing (Intercepting data packets that pass through a network)
 -  anlyzes the data packets for known attack signatures from know malware attack 
-  ###  Intrusion detection with snort:
+intrusion detection with snort:
   -Snort can work in three ways:
   ## sniffer mode :
 - Captures and displays network packets in real time
