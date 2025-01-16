@@ -18,15 +18,15 @@ Artificial Intelligence (AI) in cybersecurity refers to using advanced algorithm
 - Snort is a free,customizable and open source network intrusion detection system (NIDS) that monitor network traffic
 - Inspects network packets(chunk of data with header,payload and trailer.Made  in the network layer of the OSI model)
   
-- **How it works**:
+  ### How it works :
 -  Funtions by inspecting data packets that pass through a network through packet sniffing
 -  anlyzes the data packets for known attack signatures from know malware attack 
-- **Intrusion detection with snort**:
-- ### sniffer mode :
+  ### Intrusion detection with snort:
+ ### sniffer mode :
 - Captures and displays network packets in real time
-- ### Packet logger mode:
+  ### Packet logger mode:
 - Snort logs packtes to afile allowing you to analyze them later this helps with forensic investigation.
-- ### Network Intrusion detection mode:
+  ### Network Intrusion detection mode:
 - Compares network traffic against a database of known attack signatures.
 
 
