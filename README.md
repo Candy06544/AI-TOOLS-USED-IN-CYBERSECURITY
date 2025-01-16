@@ -19,14 +19,15 @@ Artificial Intelligence (AI) in cybersecurity refers to using advanced algorithm
 - Inspects network packets(chunk of data with header,payload and trailer.Made  in the network layer of the OSI model)
   
   ### How it works :
--  Funtions by inspecting data packets that pass through a network through packet sniffing
+-  Funtions by inspecting data packets that pass through a network through packet sniffing (Intercepting data packets that pass through a network)
 -  anlyzes the data packets for known attack signatures from know malware attack 
-  ### Intrusion detection with snort:
- ### sniffer mode :
+  ###  Intrusion detection with snort:
+  -Snort can work in three ways:
+  ### 1. sniffer mode :
 - Captures and displays network packets in real time
-  ### Packet logger mode:
+  ### 2. Packet logger mode:
 - Snort logs packtes to afile allowing you to analyze them later this helps with forensic investigation.
-  ### Network Intrusion detection mode:
+  ### 3. Network Intrusion detection mode:
 - Compares network traffic against a database of known attack signatures.
 
 
